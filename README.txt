@@ -1,7 +1,8 @@
 
-##########################################################################################################################
-##### Open sourced by IBEX, an electronic product design company based on South East England.  http://www.ibexuk.com #####
-##########################################################################################################################
+######################################################################
+##### Open sourced by IBEX, an electronic product design company #####
+#####    based in South East England.  http://www.ibexuk.com     #####
+######################################################################
 
 The Atmel AT42QT2160 is an I2C Bus touch sensor controller. It provides up to 16 touch sense keys and slider sense functionality for embedded designs.
 
